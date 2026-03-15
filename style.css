@@ -41,7 +41,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 5%;
-  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -351,7 +350,7 @@ footer {
 }
 
 /* ---------------- RESPONSIVIDADE (Celulares) ---------------- */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   .hero {
     flex-direction: column;
     text-align: center;
